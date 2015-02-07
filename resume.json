@@ -1,0 +1,108 @@
+{
+  "basics": {
+    "name": "Cristiano",
+    "label": "Software Engineer",
+    "picture": "http://www.gravatar.com/avatar/24e120720f910740f6695e718cf2c8bb.png",
+    "email": "pedersini.cristiano@gmail.com",
+    "phone": "(+81) 080-8030-7850",
+    "website": "",
+    "summary": "Born and raised in Italy, studied in Italy, Australia and Japan. Engineer, computer programmer, amateur bodybuilder and coffee freak with a passionate interest for new experiences, challenges and people. Quick learner, troubleshooter and always constructively critical.",
+    "location": {
+      "address": "1-5-3 Higashiazabu",
+      "postalCode": "106-0044",
+      "city": "Minato-ku",
+      "countryCode": "JP",
+      "region": "Tokyo-to"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "cpedersini",
+        "url": "https://www.linkedin.com/in/cpedersini/en"
+      },
+      {
+        "network": "Github",
+        "username": "ironmancris",
+        "url": "https://github.com/ironmancris"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "株式会社Phybbit",
+      "position": "Software Engineer / Fullstack Developer",
+      "website": "http://www.phybbit.com/",
+      "startDate": "2014-04-01",
+      "summary": "",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Oklahoma",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2011-06-01",
+      "endDate": "2014-01-01",
+      "gpa": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Video compression for 3d media",
+      "publisher": "Hooli",
+      "releaseDate": "2014-10-01",
+      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ]
+}
