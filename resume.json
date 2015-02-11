@@ -1,108 +1,348 @@
 {
-  "basics": {
-    "name": "Cristiano",
-    "label": "Software Engineer",
-    "picture": "http://www.gravatar.com/avatar/24e120720f910740f6695e718cf2c8bb.png",
-    "email": "pedersini.cristiano@gmail.com",
-    "phone": "(+81) 080-8030-7850",
-    "website": "",
-    "summary": "Born and raised in Italy, studied in Italy, Australia and Japan. Engineer, computer programmer, amateur bodybuilder and coffee freak with a passionate interest for new experiences, challenges and people. Quick learner, troubleshooter and always constructively critical.",
-    "location": {
-      "address": "1-5-3 Higashiazabu",
-      "postalCode": "106-0044",
-      "city": "Minato-ku",
-      "countryCode": "JP",
-      "region": "Tokyo-to"
-    },
-    "profiles": [
-      {
-        "network": "Linkedin",
-        "username": "cpedersini",
-        "url": "https://www.linkedin.com/in/cpedersini/en"
-      },
-      {
-        "network": "Github",
-        "username": "ironmancris",
-        "url": "https://github.com/ironmancris"
-      }
-    ]
-  },
-  "work": [
-    {
-      "company": "株式会社Phybbit",
-      "position": "Software Engineer / Fullstack Developer",
-      "website": "http://www.phybbit.com/",
-      "startDate": "2014-04-01",
-      "summary": "",
-      "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
-    }
-  ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
-      ]
-    },
-    {
-      "name": "Compression",
-      "level": "Master",
-      "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
-    }
-  ]
+	"basics": {
+		"name": "Cristiano Pedersini",
+		"label": "Software Engineer",
+		"picture": "https://media.licdn.com/mpr/mprx/0_73E_PZVgNlF6ZQP03LVpPRHjqvCEZL_035YpPRogIKnUbTNxiFs7jUYPVRGNRGC1mGegyy4NAAMC",
+		"email": "pedersini.cristiano@gmail.com",
+		"phone": "(+81) 080-8030-7850",
+		"website": "www.cristianopedersini.com",
+		"summary": "Born and raised in Italy, studied in Italy, Australia and Japan. Engineer, computer programmer, amateur bodybuilder and coffee freak with a passionate interest for new experiences, challenges and people. Quick learner, troubleshooter and always constructively critical.",
+		"location": {
+			"address": "2-9-28 Hiroo",
+			"postalCode": "150-0012",
+			"city": "Shibuya-ku",
+			"countryCode": "JP",
+			"region": "Tokyo"
+		},
+		"profiles": [
+			{
+				"network": "Linkedin",
+				"username": "cpedersini",
+				"url": "https://www.linkedin.com/in/cpedersini/en"
+			},
+			{
+				"network": "Github",
+				"username": "ironmancris",
+				"url": "https://github.com/ironmancris"
+			}
+		]
+	},
+	"work": [
+		{
+			"company": "株式会社Phybbit",
+			"position": "Software Engineer / Fullstack Developer",
+			"website": "http://www.phybbit.com/",
+			"startDate": "2014-04-01",
+			"highlights": [],
+			"summary": ""
+		}
+	],
+	"personalProjects": [
+		{
+			"title": "Vanity",
+			"description": "A notification broadcast platform for SaaS",
+			"highlights": [
+				"Written in python(django) and uses AngularJs on the client",
+				"Enables creating new notifications, just by shooting an email"
+			],
+			"status": "Finished",
+			"website": "ethernet.cloudapp.net:8000" 
+		}
+	],
+	"education": [
+		{
+			"institution": "Politecnico di Milano",
+			"startDate": "2011-01-01",
+			"gpa": "",
+			"courses": [],
+			"endDate": "2014-01-01"
+		},
+		{
+			"institution": "Queensland University of Technology",
+			"startDate": "2012-01-01",
+			"gpa": "",
+			"courses": [],
+			"endDate": "2013-01-01"
+		},
+		{
+			"institution": "Politecnico di Milano",
+			"startDate": "2008-01-01",
+			"gpa": "",
+			"courses": [],
+			"endDate": "2011-01-01"
+		}
+	],
+	"skills": [
+		{
+			"name": "Software Development",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Unity3D",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Ruby on Rails",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Game AI",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "jQuery",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "RESTful WebServices",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Test Driven Development",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Java",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "C#",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "CSS3",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "XML",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Mobile Games",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Game Design",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "SQL",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Amazon Web Services (AWS)",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "MVC Architecture",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Python",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "HTML",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Agile Methodologies",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Project Management",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Linux",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Unix Operating Systems",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Google App Engine",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "CSS",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Awk",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "RapidMiner",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Data Mining",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Regular Expressions",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Multithreaded application development",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "GNU Make",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "User-centered Design",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Genetic Algorithms",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Genetic Programming",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Mac OS",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Multi-agent Systems",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Ruby",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Relational Databases",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Web Development",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "RSpec",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "JavaScript",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Backend Development",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "RESTful architecture",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "AJAX",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "CoffeeScript",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "J2EE Application Development",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Eclipse",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Android SDK",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Git",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Github",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Subversion",
+			"level": "",
+			"keywords": []
+		}
+	],
+	"references": [
+		{
+			"name": "Simone Pellegrino",
+			"reference": "Cristiano is a very hard worker. His unique aim is to reach the goal, no matter what's the price to pay. His motto is \"Either we heal as a team or we are going to crumble. Inch by inch, play by play, till we're finished\" inspired from Al Pacino's most famous speech.\r\nThere is no night passed on buggy code in which his dedication wasn't absolutely total and it was incredible how he motivated people to reach their goals breaking out their own limits.\r\nHis knowledge in software engineering is absolutely strong and proficient."
+		}
+	],
+	"languages": [
+		{
+			"language": "Italiano",
+			"fluency": "native"
+		},
+		{
+			"language": "English",
+			"fluency": "proficient"
+		},
+		{
+			"language": "Japanese",
+			"fluency": "beginner"
+		}
+	],
+	"volunteer": []
 }
