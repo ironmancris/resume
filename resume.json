@@ -42,7 +42,7 @@
 				"Web application for payed video streaming, with social network features. Ruby, Ruby on Rails, Unicorn and Nginx.",
 				"Living Surface: Interactive application for events. People tracking and realistic interaction with projected visual effects. Unity, Mono, C#, Kinect.",
 				"Mobile web and native Android app, with in app-purchase features. Java, javascript, HTML, Android Webviews.",
-				"Video rendering pipeline for automatic batch creation of video presentations. Unity, Mono, C#, Ruby on Rails."
+				"Video Pipeline: Web framework for automatic batch generation of data-driven video presentations. Unity, Mono, C#, Ruby on Rails."
 			],
 			"summary": ""
 		},
@@ -62,7 +62,7 @@
 			"position": "Independent Videogame Developer",
 			"startDate": "2012-06-01",
 			"highlights": [
-				"Dirty Little Bunnies Commercial mobile videogame for iOS devices, started as university project. Unity, C# and Xcode."
+				"Dirty Little Bunnies: Commercial mobile videogame for iOS devices, started as university project. Unity, C# and Xcode."
 			],
 			"summary": ""
 		}
@@ -72,7 +72,8 @@
 		{
 			"institution": "Politecnico di Milano",
 			"startDate": "2011-09-01",
-			"studyType": "Master of Engineering in Computer Science",
+			"studyType": "Master of Engineering",
+			"area": "Computer Science",
 			"gpa": "",
 			"courses": [],
 			"endDate": "2014-12-01"
@@ -80,7 +81,8 @@
 		{
 			"institution": "Queensland University of Technology",
 			"startDate": "2012-07-01",
-			"studyType": "International Exchange Program Student",
+			"studyType": "International Exchange Program",
+			"area": "Information Technology",
 			"gpa": "",
 			"courses": [],
 			"endDate": "2013-02-01"
@@ -88,7 +90,8 @@
 		{
 			"institution": "Politecnico di Milano",
 			"startDate": "2008-09-01",
-			"studyType": "Bachelor of Engineering in Computer Science",
+			"studyType": "Bachelor of Engineering",
+			"area": "Computer Science",
 			"gpa": "",
 			"courses": [],
 			"endDate": "2011-09-01"
