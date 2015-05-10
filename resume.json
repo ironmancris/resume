@@ -5,7 +5,7 @@
 		"picture": "http://www.gravatar.com/avatar/24e120720f910740f6695e718cf2c8bb.png?s=240",
 		"email": "pedersini.cristiano@gmail.com",
 		"phone": "(+81) 080-8030-7850",
-		"summary": "Born and raised in Italy, studied in Italy, Australia and Japan. Engineer, computer programmer, amateur bodybuilder and coffee lover. A software developer with a passionate interest for new experiences, challenges and people. Quick learner, troubleshooter and always constructively critical.",
+		"summary": "Computer programmer, fitness devotee and coffee lover. I studied Computer Science in Milano, Italy, where I specialized in Artificial Intelligence and Data Mining. I studied abroad in Brisbane, Australia. I was a research intern in Tokyo, Japan, where I started my career as a software engineer. I would define myself a software developer, with a passionate interest for new experiences, challenges and people. Quick learner, troubleshooter and always constructively critical.",
 		"location": {
 			"address": "2-9-28 Hiroo",
 			"postalCode": "150-0012",
@@ -70,7 +70,12 @@
 			"studyType": "Master of Engineering",
 			"area": "Computer Science",
 			"gpa": "",
-			"courses": [],
+			"courses": [
+				"Data Mining",
+				"Artificial Intelligence",
+				"Soft Computing",
+				"Videogame Design and Programming",
+				"Multi-Agent Systems"],
 			"endDate": "2014-12-01"
 		},
 		{
