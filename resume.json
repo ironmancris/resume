@@ -33,11 +33,11 @@
 			"website": "http://www.phybbit.com",
 			"startDate": "2014-04-01",
 			"highlights": [
-				"Otakyou: e-commerce web application based on Ruby on Rails, Unicorn and Nginx.",
-				"Web application for payed video streaming, with social network features. Ruby, Ruby on Rails, Unicorn and Nginx.",
-				"Living Surface: Interactive application for events. People tracking and realistic interaction with projected visual effects. Unity, Mono, C#, Kinect.",
-				"Mobile web and native Android app, with in app-purchase features. Java, javascript, HTML, Android Webviews.",
-				"Video Pipeline: Web framework for automatic batch generation of data-driven video presentations. Unity, Mono, C#, Ruby on Rails."
+				"Video Pipeline (5 months): Web framework for automatic batch generation of data-driven video presentations. Unity, Mono, C#, Ruby on Rails.",
+				"Otakyou (2 months): e-commerce web application based on Ruby on Rails, Unicorn and Nginx.",
+				"Web application (2 months): Video streaming, purchase and subscription web application with social network features. Ruby, Ruby on Rails, Unicorn and Nginx.",
+				"Living Surface (2 months): Interactive application for events. People tracking and realistic interaction with projected visual effects. Unity, Mono, C#, Kinect.",
+				"Web/Android (1 months): Mobile web and native Android app, with in app-purchase features. Java, javascript, HTML, Android Webviews."
 			],
 			"summary": ""
 		},
@@ -101,12 +101,22 @@
 		{
 			"name": "Programming Languages",
 			"level": "",
-			"keywords": ["Java", "C#", "C", "Python", "Javascript", "Objective-C", "Awk", "SQL", "Ruby", "Matlab"]
+			"keywords": ["C#", "Java", "Ruby", "SQL", "Javascript", "C", "Python", "Objective-C", "Awk", "Matlab"]
 		},
 		{
-			"name": "Frameworks/Platforms",
+			"name": "Frameworks / Platforms",
 			"level": "",
-			"keywords": ["Ruby on Rails", ".NET", "Google App Engine", "J2EE", "Android SDK", "AWS", "RSpec"]
+			"keywords": ["AWS", ".NET", "Heroku", "Google App Engine", "Android SDK", "RSpec"]
+		},
+		{
+			"name": "Methodologies",
+			"level": "",
+			"keywords": ["Data Mining", "Feature Driven Development", "Test Driven Development", "Game AI", "Genetic Algorithms", "Mobile Development"]
+		},
+		{
+			"name": "Back End",
+			"level": "",
+			"keywords": ["Ruby on Rails", "Node.js", "NoSQL DB", "J2EE"]
 		},
 		{
 			"name": "Front End",
@@ -114,25 +124,9 @@
 			"keywords": ["HTML", "CSS3", "AJAX", "jQuery", "UX Design"]
 		},
 		{
-			"name": "Methodologies",
-			"level": "",
-			"keywords": ["Test Driven Development", "Game AI", "Data Mining", "Mobile Development", "Feature Driven Development", "Genetic Algorithms"]
-		},
-		{
 			"name": "Tools",
 			"level": "",
-			"keywords": ["Unity PRO", "RapidMiner", "Eclipse", "Git", "Vim", "Xcode", "GNU Make"]
-		},
-		{
-			"name": "Operating Systems",
-			"level": "",
-			"keywords": ["Mac OSX", "Linux", "Windows"]
-		}
-	],
-	"references": [
-		{
-			"name": "Simone Pellegrino",
-			"reference": "Cristiano is a very hard worker. His unique aim is to reach the goal, no matter what's the price to pay. His motto is \"Either we heal as a team or we are going to crumble. Inch by inch, play by play, till we're finished\" inspired from Al Pacino's most famous speech.\r\nThere is no night passed on buggy code in which his dedication wasn't absolutely total and it was incredible how he motivated people to reach their goals breaking out their own limits.\r\nHis knowledge in software engineering is absolutely strong and proficient."
+			"keywords": ["Unity PRO", "Visual Studio", "RapidMiner", "Eclipse", "Git", "Vim", "Xcode", "GNU Make"]
 		}
 	],
 	"languages": [
